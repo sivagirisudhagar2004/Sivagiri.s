@@ -1,4 +1,4 @@
-Hi, I'm Sivagiri S 👋
+ #Hi, I'm Sivagiri S 👋
 🐍 Python Backend Developer | 💻 Software Developer | 🚀 Tech Enthusiast
 
 I'm Sivagiri S, a passionate Python Backend Developer who enjoys building scalable, reliable, and efficient backend applications.
@@ -9,13 +9,12 @@ I love turning ideas into working software, solving problems with clean code, an
 
 🐍 Python
 
-⚡ FastAPI / Django / Flask
+⚡ / Django / 
 
-🗄️ PostgreSQL / MySQL
+🗄️  / MySQL
 
 🔗 REST APIs
 
-🐳 Docker
 
 🌐 Git & GitHub
 
